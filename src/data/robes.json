@@ -1,0 +1,21 @@
+[
+    {
+      "id": 201,
+      "name": "Халат вафельный женский",
+      "price": 90000,
+      "image": "https://via.placeholder.com/300x200?text=Халат+1"
+    },
+    {
+      "id": 202,
+      "name": "Махровый халат мужской",
+      "price": 110000,
+      "image": "https://via.placeholder.com/300x200?text=Халат+2"
+    },
+    {
+      "id": 203,
+      "name": "Детский халат с капюшоном",
+      "price": 85000,
+      "image": "https://via.placeholder.com/300x200?text=Халат+3"
+    }
+  ]
+  

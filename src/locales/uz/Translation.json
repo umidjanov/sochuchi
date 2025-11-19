@@ -1,0 +1,87 @@
+{
+  "bannerTitle": "Saipov Group",
+  "bannerSubtitle": "Yumshoq va qulay sochiqlar hamda xalatlar – o'zingiz va oilangiz uchun eng yaxshisini tanlang",
+  "categoriesTitle": "Mahsulot turlari",
+  "towelsTitle": "Sochiqlar",
+  "towelsDesc": "Yumshoq, suv yutuvchi va zamonaviy – hammom, oshxona va saunaga mos.",
+  "robesTitle": "Xalatlar",
+  "robesDesc": "Tabiiy matolardan tayyorlangan qulay xalatlar – har kungi qulaylik uchun.",
+  "goTo": "Ko‘rish",
+  "newArrivals": "Yangi mahsulotlar",
+  "popularProducts": "Ommabop mahsulotlar",
+  "reviews": "Mijozlar fikrlari",
+  "faq": "Ko‘p so‘raladigan savollar",
+  "faq1q": "Yetkazib berish muddati qancha?",
+  "faq1a": "O‘zbekistonda yetkazib berish 1–3 ish kuni davom etadi, hududingizga qarab.",
+  "faq2q": "Mahsulotni qaytarish mumkinmi?",
+  "faq2a": "Ha, mahsulotni 14 kun ichida, qadoq va chek saqlangan holda qaytarishingiz mumkin.",
+  "faq3q": "Xalat o‘lchamini qanday tanlash mumkin?",
+  "faq3a": "Mahsulot sahifasidagi o‘lchamlar jadvalidan foydalanishingiz yoki konsultantga murojaat qilishingiz mumkin.",
+  "nav": {
+    "home": "Bosh sahifa",
+    "towels": "Sochiqlar",
+    "robes": "Xalatlar",
+    "about": "Biz haqimizda",
+    "contact": "Aloqa"
+  },
+    "footer": {
+    "brandDesc": "Yuqori sifatli sochiqlar va xalatlar – qulaylik uchun g‘amxo‘rlik.",
+    "navigation": "Navigatsiya",
+    "contacts": "Kontaktlar",
+    "location": "Toshkent, O‘zbekiston",
+    "rights": "Barcha huquqlar himoyalangan."
+  },
+    "about": {
+    "title": "Biz haqimizda",
+    "p1": "bu yuqori sifatli sochiqlar va xalatlar bilan shug‘ullanuvchi onlayn do‘kon. Biz qulaylik, uslub va narx muvozanatini ta’minlab, sizga har kuni farovonlik ulashmoqchimiz.",
+    "p2": "Bizning assortimentda 100% paxta, bambuk va boshqa tabiiy matolardan tayyorlangan mahsulotlar mavjud. Dizayn, sifat va tafsilotlarga alohida e’tibor beramiz — sizga faqat eng yaxshisini yetkazamiz.",
+    "p3": "Bizning jamoamiz sizga mahsulot tanlashdan tortib, tez yetkazib berish va mijozlarga xizmat ko‘rsatishgacha bo‘lgan har bir bosqichda qulaylik yaratishga harakat qiladi. Mijozlar ishonchini qadrlaymiz va doimiy rivojlanamiz.",
+    "p4": "Saipov Group’ni tanlaganingiz uchun tashakkur! Biz har doim yoningizdamiz."
+  },
+    "contact": {
+    "title": "Biz bilan bog'lanish",
+    "email": "Email",
+    "phone": "Telefon",
+    "address": "Manzil",
+    "city": "Toshkent, O'zbekiston",
+    "nameLabel": "Ismingiz",
+    "messageLabel": "Xabaringiz",
+    "submit": "Yuborish",
+    "success": "✅ Xabaringiz yuborildi!"
+  },
+    "cart": {
+    "title": "Savat",
+    "empty": "Savatingiz hozircha bo‘sh.",
+    "size": "O‘lcham",
+    "color": "Rang",
+    "remove": "O‘chirish",
+    "clear": "Savatchani tozalash",
+    "checkout": "Buyurtma berish",
+    "total": "Jami",
+    "currency": "so‘m",
+    "orderAlert": "Buyurtmangiz rasmiylashtirildi!",
+    "deleted": "«{{name}}» savatdan o‘chirildi"
+  },
+    "favorites": {
+    "title": "Sevimlilar",
+    "empty": "Sevimlilar ro‘yxati bo‘sh.",
+    "remove": "O‘chirish",
+    "addToCart": "Savatga qo‘shish",
+    "currency": "so‘m"
+  },
+  "admin": {
+    "product_list": "Mahsulotlar ro‘yxati",
+    "no_products": "Mahsulotlar mavjud emas",
+    "image": "Rasm",
+    "name": "Nomi",
+    "price": "Narxi",
+    "category": "Kategoriya",
+    "flags": "Belgilar",
+    "sizes": "O‘lchamlar",
+    "colors": "Ranglar",
+    "robe": "Xalat",
+    "towel": "Sochiq",
+    "new": "Yangi",
+    "popular": "Ommabop"
+  }
+}

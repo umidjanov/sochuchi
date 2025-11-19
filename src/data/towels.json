@@ -1,0 +1,21 @@
+[
+    {
+        "id": 101,
+        "name": "Махровое полотенце Lux",
+        "price": 69000,
+        "image": "/images/towel1.jpg",
+        "isPopular": true
+    },
+    {
+        "id": 102,
+        "name": "Полотенце для лица",
+        "price": 25000,
+        "image": "https://via.placeholder.com/300x200?text=Полотенце+2"
+    },
+    {
+        "id": 103,
+        "name": "Полотенце с вышивкой",
+        "price": 50000,
+        "image": "https://via.placeholder.com/300x200?text=Полотенце+3"
+    }
+]

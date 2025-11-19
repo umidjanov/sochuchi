@@ -1,0 +1,87 @@
+{
+  "bannerTitle": "Saipov Group",
+  "bannerSubtitle": "Towels and robes for comfort and coziness — choose the best for yourself and your family",
+  "categoriesTitle": "Product Categories",
+  "towelsTitle": "Towels",
+  "towelsDesc": "Soft, absorbent and stylish — perfect for bathroom, kitchen and sauna.",
+  "robesTitle": "Robes",
+  "robesDesc": "Cozy robes made of natural fabrics — comfort for every day.",
+  "goTo": "View",
+  "newArrivals": "New Arrivals",
+  "popularProducts": "Popular Products",
+  "reviews": "Customer Reviews",
+  "faq": "Frequently Asked Questions",
+  "faq1q": "How long does delivery take?",
+  "faq1a": "Delivery across Uzbekistan takes 1–3 business days depending on the region.",
+  "faq2q": "Can I return the product?",
+  "faq2a": "Yes, you can return the product within 14 days if packaging and receipt are intact.",
+  "faq3q": "How to choose robe size?",
+  "faq3a": "You can use our size chart on the product page or contact our consultant.",
+  "nav": {
+  "home": "Home",
+  "towels": "Towels",
+  "robes": "Robes",
+  "about": "About Us",
+  "contact": "Contact"
+},
+"footer": {
+  "brandDesc": "High-quality towels and robes – care for comfort.",
+  "navigation": "Navigation",
+  "contacts": "Contacts",
+  "location": "Tashkent, Uzbekistan",
+  "rights": "All rights reserved."
+},
+"about": {
+  "title": "About Us",
+  "p1": "is an online store specializing in high-quality towels and robes. We aim to combine comfort, style, and affordability so you can feel cozy every day.",
+  "p2": "Our assortment includes products made from 100% cotton, bamboo, and other natural fabrics. We pay special attention to design, quality, and detail — so you get only the best.",
+  "p3": "Our team cares about your comfort at every stage: from product selection to fast delivery and customer support. We value your trust and are constantly improving.",
+  "p4": "Thank you for choosing Saipov Group. We’re always here for you!"
+},
+"contact": {
+  "title": "Contact Us",
+  "email": "Email",
+  "phone": "Phone",
+  "address": "Address",
+  "city": "Tashkent, Uzbekistan",
+  "nameLabel": "Your Name",
+  "messageLabel": "Message",
+  "submit": "Send",
+  "success": "✅ Your message has been sent!"
+},
+"cart": {
+  "title": "Cart",
+  "empty": "Your cart is currently empty.",
+  "size": "Size",
+  "color": "Color",
+  "remove": "Remove",
+  "clear": "Clear cart",
+  "checkout": "Checkout",
+  "total": "Total",
+  "currency": "UZS",
+  "orderAlert": "Your order has been placed!",
+  "deleted": "Item \"{{name}}\" removed from cart"
+},
+"favorites": {
+  "title": "Favorites",
+  "empty": "Your favorites list is empty.",
+  "remove": "Remove",
+  "addToCart": "Add to cart",
+  "currency": "UZS"
+},
+  "admin": {
+    "product_list": "Product List",
+    "no_products": "No products available",
+    "image": "Image",
+    "name": "Name",
+    "price": "Price",
+    "category": "Category",
+    "flags": "Flags",
+    "sizes": "Sizes",
+    "colors": "Colors",
+    "robe": "Robe",
+    "towel": "Towel",
+    "new": "New",
+    "popular": "Popular"
+  }
+}
