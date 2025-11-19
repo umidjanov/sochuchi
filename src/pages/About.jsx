@@ -18,6 +18,8 @@ export default function About() {
       <p className="text-gray-700 leading-relaxed mb-4">{t("about.p3")}</p>
 
       <p className="text-gray-700 leading-relaxed">{t("about.p4")}</p>
+    <h1> hello </h1>
+
     </div>
   );
 }
